@@ -4,9 +4,7 @@
 ### Contact Info:
 
 -Mobile phone: +375293407109
-
 -Telegram: @oleg634
-
 -Gmail: osipaualeh@gmail.com
 
 ### Summary:
@@ -45,5 +43,4 @@ if (count % 2 == 0)
 
 ### English:
 -Had 3 years of streamline and another cources
-
 -level B2
