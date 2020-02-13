@@ -42,5 +42,5 @@ if (count % 2 == 0)
 - EPAM Courses «DEVELOPING ASP.NET MVC WEB APPLICATIONS»
 
 ### English:
-- Had 3 years of streamline and another cources
+- Had 3 years of courses like Streamline and another cources
 - level B2
